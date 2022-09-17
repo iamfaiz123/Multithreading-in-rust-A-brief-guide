@@ -1,0 +1,1 @@
+/home/faizal/Desktop/screenshot/multithreading/target/debug/multithreading: /home/faizal/Desktop/screenshot/multithreading/src/lib.rs /home/faizal/Desktop/screenshot/multithreading/src/main.rs /home/faizal/Desktop/screenshot/multithreading/src/multithread_datapassing/mod.rs /home/faizal/Desktop/screenshot/multithreading/src/multithread_datapassing/multi.rs
